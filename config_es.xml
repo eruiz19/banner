@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>gradi_adsense</name>
+    <displayName><![CDATA[Gradi Adsense]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Muestra un banner en tu sitio web.]]></description>
+    <author><![CDATA[Ender Ruiz]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Estás seguro de que quieres desinstalar el módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
